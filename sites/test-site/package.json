@@ -11,8 +11,6 @@
     "astro": "astro"
   },
   "dependencies": {
-  },
-  "workspaces": [
-      "sites/*"
-  ]
+    "astro": "^4.11.3"
+  }
 }
